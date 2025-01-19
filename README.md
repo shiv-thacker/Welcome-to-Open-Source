@@ -1723,6 +1723,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <sub><b>Prabhat Jha</b></sub>
             </a>
         </td>
+         <td align="center">
+            <a href="https://github.com/shiv-thacker">
+                <img src="https://avatars.githubusercontent.com/u/135642615?v=4&size=64" width="100px;" alt="Shivang Thacker"/>
+                <br />
+                <sub><b>Shivang Thacker</b></sub>
+            </a>
+        </td>
         </tr>
     </tbody>
 </table>
